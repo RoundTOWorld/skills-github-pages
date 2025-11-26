@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog
+title: 你好，来访者(`・ω・´)
 ---
